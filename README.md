@@ -27,3 +27,7 @@ just deploy
 This creates a production deployment from the contents of `public/`. Wrangler will use the existing local OAuth login or open a browser to authenticate.
 
 The About page is at `public/about/index.html`.
+
+## Licensing
+
+Source code is available under the [MIT License](LICENSE). The writing, photographs, and other site content are © Ryan Kaskel. All rights reserved. Third-party software remains subject to its original licences.
